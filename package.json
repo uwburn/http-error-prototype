@@ -4,6 +4,6 @@
   "main": "httpError.js",
   "repository" : {
 	"type" : "git",
-    "url" : "http://192.168.1.10:9090/r/~michele/http-error.git"
+    "url" : "git://192.168.1.10/http-error.git"
   }
 }

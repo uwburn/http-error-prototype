@@ -1,9 +1,15 @@
 {
   "name": "http-error",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": "httpError.js",
+  "description": "A simple module to deal coherently with HTTP errors in Express",
+  "author": { 
+    "name" : "Michele Tibaldi", 
+    "url" : "https://github.com/uwburn/"
+  },
   "repository" : {
 	"type" : "git",
   	"url" : "https://github.com/uwburn/http-error.git"
-  }
+  },
+  "license": "LGPL-3.0"
 }

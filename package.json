@@ -1,5 +1,5 @@
 {
-  "name": "http-error",
+  "name": "http-error-prototype",
   "version": "1.0.0",
   "main": "httpError.js",
   "description": "A simple module to deal coherently with HTTP errors in Express",
@@ -9,7 +9,7 @@
   },
   "repository" : {
 	"type" : "git",
-  	"url" : "https://github.com/uwburn/http-error.git"
+  	"url" : "https://github.com/uwburn/http-error-prototype.git"
   },
   "license": "LGPL-3.0"
 }

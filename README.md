@@ -1,4 +1,4 @@
-# HTTP error
+# HTTP error prototype
 
 A simple module to deal coherently with HTTP errors in Express. Has conveniency methods for the most commons HTTP error codes. See `http-error-express` for the companion error handling middleware. 
 
@@ -6,7 +6,7 @@ A simple module to deal coherently with HTTP errors in Express. Has conveniency 
 
 ```javascript
 var express = require('express');
-var HttpError = require('http-error');
+var HttpError = require('http-error-prototype');
 
 var router = express.Router();
 
